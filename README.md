@@ -1,6 +1,6 @@
 # IPSO-MAC
-Original, restored software for regression analyses, to   
-experience the thrill of 80's programs, and more...
+A restored software for hypso-diametric regression analyses.  
+To experience the thrill of 80's programs, and more...
 
 
 ==============================================================
