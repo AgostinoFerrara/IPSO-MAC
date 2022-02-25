@@ -37,13 +37,13 @@ b) 	Open System Preferences >Go to Security & Privacy panel
    	> Select the General tab. and press 'Open Anyway' button;   
 c) 	If any problem arises in running the program under    
    	Terminal, try to install the xCode Command Line Tools    
-	  copying and pasting this command in the Terminal window:   
+	copying and pasting this command in the Terminal window:   
 
         xcode-select --install 
 
 d) 	If you need to change the permissions of the program just    
-	  Right click on the  program icon >Infomation > Permission    
-	  > unlock  and change.   
+	Right click on the  program icon >Infomation > Permission    
+	> unlock  and change.   
 e)	If you are here then 'Houston we had a problem'.....   
 
 ==============================================================   
@@ -59,7 +59,7 @@ a simple text editor. Be sure to store data files as simple
 plain text (so set this in text editor preferences).  
 
 Printer outputs are not anymore working. Despite all efforts,   
-the original '80 sounds do not work under Mac compiled version,    
+the original 80's sounds do not work under Mac compiled version,    
 and I had not still understud why.  =:-((    
 
 In the install folder you'll also find the original paper with   
