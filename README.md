@@ -18,8 +18,8 @@ To experience the thrill of 80's programs, and more...
 
 Macintosh version
 
-This is a restored version of the IPSO V.2.1 program,   
-developed in 1988-90.  It is NOT an update, so the beaviour   
+This is a restored version of the IPSO V.2.1 program, developed 
+in 1988-90.  Because it is NOT an update, the behaviour   
 of the original version have been deliberately retained.  
 
 ==============================================================   
@@ -27,36 +27,36 @@ IPSO was written in GW-Basic 1.1
 The compiler used for this MAC executable is QB64 v2.0.2:   
 https://github.com/QB64Team/qb64/releases     
 
-IPSO is an 'executable' and it is seen by Mac OS as a    
-potential threat to its intergrity, so...., depending from    
-your OS confinguration you could have different options to run   
+Being IPSO is an 'executable', Mac OS sees it as a    
+potential threat to its integrity, so.... depending on    
+your OS configuration, you may have different options for running   
 the program for the first time (try in the order):  
 
-a) 	Right-click or Control-click the app and select “Open”;   
-b) 	Open System Preferences >Go to Security & Privacy panel    
-   	> Select the General tab. and press 'Open Anyway' button;   
-c) 	If any problem arises in running the program under    
-   	Terminal, try to install the xCode Command Line Tools    
-	copying and pasting this command in the Terminal window:   
+a) 	Right-click or Control-click the app and select “Open”. 
+b) 	Open System Preferences > Go to Security & Privacy panel 
+	> Select the General tab, and select 'Open Anyway' button.   
+c) 	In the case of troubles running the program in the    
+   	Terminal, try to install the Xcode Command Line Tools by 
+   	typing in Terminal the following command:   
 
         xcode-select --install 
 
-d) 	If you need to change the permissions of the program just    
-	Right click on the  program icon >Infomation > Permission    
-	> unlock  and change.   
+d) 	If you need to change the program permissions, simply    
+	Right-click on the  program icon ans select Information > 
+	Permission  > unlock  and change.   
 e)	If you are here then 'Houston we had a problem'.....   
 
 ==============================================================   
-I suggest to put the folder IPSO in the user directory but   
-it should work from anywhere. Data files that are in the same    
-directory of IPSO are easier to manage if you are not confident    
-with command-line commands. To open the enclosed  DATI.IPS    
-example file, input, when asked, the name without extension.    
+Although I suggest placing the folder IPSO in the user directory,   
+it should work from anywhere. Data files in the same IPSO directory 
+are easier to manage if you are not confident with command-line 
+commands.  When prompted, enter the name DATI (without the 
+extension) to open the enclosed DATI.IPS example file.
 
-xxxxx.IPS files use a comma separated values format (use   
-DATI.IPS as reference to copy and paste other datasets through    
-a simple text editor. Be sure to store data files as simple    
-plain text (so set this in text editor preferences).  
+xxxxx.IPS files use a comma separated values format with an
+information header. Look at DATI.IPS to built similar files through
+any text editor or at the enclosed file 'How to import data from 
+excel database'.
 
 Printer outputs are not anymore working. Despite all efforts,   
 the original 80's sounds do not work under Mac compiled version,    
