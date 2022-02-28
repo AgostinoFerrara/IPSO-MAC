@@ -54,9 +54,9 @@ commands.  When prompted, enter the name DATI (without the
 extension) to open the enclosed DATI.IPS example file.     
 
 xxxxx.IPS files use a comma separated values format with an      
-information header. Look at DATI.IPS to built similar files through      
-any text editor or at the enclosed file 'How to import data from     
-excel database'.     
+information header. Look at DATI.IPS (to built similar files through      
+any text editor) or read the enclosed file 'How to import data from     
+excel'.     
 
 Printer outputs are not anymore working. Despite all efforts,   
 the original 80's sounds do not work under Mac compiled version,    
