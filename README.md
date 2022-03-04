@@ -21,6 +21,8 @@ Macintosh version
 This is a restored version of the IPSO V.2.1 program, developed    
 in 1988-90.  Because it is NOT an update, the behaviour     
 of the original version have been deliberately retained.   
+ 
+Double click on   'IPSO_start.command'  to start the program    
 
 ==============================================================   
 IPSO was written in GW-Basic 1.1     
