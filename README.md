@@ -20,9 +20,9 @@ Macintosh version
 
 This is a restored version of the IPSO V.2.1 program, developed    
 in 1988-90.  Because it is NOT an update, the behaviour     
-of the original version have been deliberately retained.   
+of the original version have been deliberately retained.    
  
-Double click on   'IPSO_start.command'  to start the program    
+Double click on   IPSO_start.command  to start the program    
 
 ==============================================================   
 IPSO was written in GW-Basic 1.1     
@@ -43,13 +43,17 @@ c) 	In the case of troubles running the program in the
 
         xcode-select --install 
 
-d) 	If you need to change the program permissions, simply      
+d)	If the terminal returns .zsh_sessions: Operation not permitted     
+	and IPSO still does not work, give the terminal 'Full disk    
+	access' under > System Preferences > Security & Privacy >    
+	Privacy tab.     
+e) 	If you need to change the program permissions, simply       
 	Right-click on the  program icon ans select Information >    
-	Permission  > unlock  and change.     
-e)	If you are here then 'Houston we had a problem'.....     
+	Permission  > unlock  and change.    
+f)	If you are here then 'Houston we had a problem'.....  
 
 ==============================================================   
-Although I suggest placing the folder IPSO in the user directory,     
+Although I suggest placing the folder IPSO in the Application directory,     
 it should work from anywhere. Data files in the same IPSO directory    
 are easier to manage if you are not confident with command-line    
 commands.  When prompted, enter the name DATI (without the    
@@ -57,8 +61,8 @@ extension) to open the enclosed DATI.IPS example file.
 
 xxxxx.IPS files use a comma separated values format with an      
 information header. Look at DATI.IPS (to built similar files through      
-any text editor) or read the enclosed file 'How to import data from     
-excel'.     
+any text editor) or to excel.IPS file. Read also the enclosed file      
+'How to import data from excel'.     
 
 Printer outputs are not anymore working. Despite all efforts,   
 the original 80's sounds do not work under Mac compiled version,    
