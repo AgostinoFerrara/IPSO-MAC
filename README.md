@@ -64,9 +64,8 @@ information header. Look at DATI.IPS (to built similar files through
 any text editor) or to excel.IPS file. Read also the enclosed file      
 'How to import data from excel'.     
 
-Printer outputs are not anymore working. Despite all efforts,   
-the original 80's sounds do not work under Mac compiled version,    
-and I had not still understud why.  =:-((    
+Printer outputs are not anymore working. The original 80's sounds 
+do not work under all Mac OSs.  =:-((    
 
 In the install folder you'll also find the original paper with    
 the use and the description of functions and program. It is     
